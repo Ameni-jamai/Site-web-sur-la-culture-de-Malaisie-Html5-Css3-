@@ -1,0 +1,12 @@
+body{
+    background-color: mediumseagreen;
+    text-align: center;
+}
+h1{
+    color: blue;
+    font-weight: bold;
+    font-size: 70px;
+    font-style: italic;
+    text-decoration: dashed;
+    text-shadow: none;
+    
